@@ -1,5 +1,6 @@
 # Database
-### GeekBrains '23
+GeekBrains
+
 ---
 
 ### Lesson 1 / HW
