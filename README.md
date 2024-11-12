@@ -6,7 +6,7 @@ GeekBrains
 ### Database intro colab
 sql3 <-> Colab
 
-> https://colab.research.google.com/drive/1vnH_9ocN7ZD61S7qXA8d0l4ewjnWw3T2?usp=sharing
+> https://colab.research.google.com/drive/...?usp=sharing
 
 ### Lesson 1 / HW
 Задание
